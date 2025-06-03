@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # YouTube Data API v3 key
-API_KEY = 'AIzaSyD5cgmvzf15ksY5VsSZNituaXasG9DtlQE'
+API_KEY = 'put urs here'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
